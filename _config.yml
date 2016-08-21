@@ -8,7 +8,7 @@ aboutPage: true
 highlighter: pygments
 
 paginate: 20
-baseurl: /
+baseurl: '/frontend-interview-questions/'
 domain_name: 'http://yourblog-domain.com'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
