@@ -8,7 +8,7 @@ ruby RUBY_VERSION
 #     bundle exec jekyll serve
 #
 
-
+gem 'redcarpet'
 
 gem 'github-pages'
 
