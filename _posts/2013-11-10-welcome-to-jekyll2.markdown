@@ -1,8 +1,8 @@
 ---
-title:  "Welcome to CSS!"
+title:  "Welcome to Javascript!"
 date:   2013-11-10 10:18:00
 description: Thriller Comedy Horror
-category: css
+category: js
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
