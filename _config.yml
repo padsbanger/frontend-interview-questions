@@ -27,3 +27,5 @@ github_username:  padsbanger
 # Build settings
 markdown: kramdown
 theme: minima
+safe: true
+lsi: false
